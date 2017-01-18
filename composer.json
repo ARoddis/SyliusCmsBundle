@@ -1,5 +1,5 @@
 {
-    "name": "lakion/sylius-cms-bundle",
+    "name": "aroddis/sylius-cms-bundle",
     "type": "sylius-bundle",
     "description": "Simple CMS for Sylius.",
     "license": "MIT",
